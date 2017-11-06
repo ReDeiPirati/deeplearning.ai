@@ -1,4 +1,4 @@
-# FloydHub course: Deeplearning.ai
+# Run Deeplearning.ai on FloydHub
 
 This project contains all the weekly assignments of the [Deeplearning.ai](https://www.coursera.org/specializations/deep-learning) specialization course.
 
